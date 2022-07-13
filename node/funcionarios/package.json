@@ -1,0 +1,18 @@
+{
+  "name": "funcionarios",
+  "version": "1.0.0",
+  "description": "fazendo uma requisição via http ",
+  "main": "outro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "funcionarios cod3r"
+  },
+  "author": "Joanatas Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
